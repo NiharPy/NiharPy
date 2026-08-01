@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Neelala Harish Nihar Kumar — AI Systems Engineer" width="100%" />
+  <img src="./assets/hero.svg" alt="Nihar Neelala — AI Systems Engineer" width="100%" />
 </div>
 
 <div align="center">
@@ -30,7 +30,7 @@ Most people wire an LLM to an API and call it a system. I build the parts that m
 
 ```python
 class Engineer:
-    name    = "Neelala Harish Nihar Kumar"
+    name    = "Nihar Neelala"                # Neelala Harish Nihar Kumar
     title   = "AI Systems Engineer"          # backend-heavy, latency-obsessed
     base    = "Hyderabad, India 🇮🇳"
     school  = "B.Tech CSE @ GITAM — Class of 2027"
